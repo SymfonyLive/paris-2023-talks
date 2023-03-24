@@ -157,8 +157,9 @@ By [Magali Milbergue](https://connect.symfony.com/profile/magali_milbergue)
   <dd>Les génériques sont un concept des langages de programmation. En bref, ils permettent d'écrire du code typé mais sans être spécifiquement lié à un type particulier. Beaucoup de langages supportent déjà les génériques plus ou moins nativement : Java, C#, Go, Rust Typescript... Ce n'est pas le cas de PHP, mais grâce à sa communauté et son ecosystème, il est tout de même possible de les utiliser. Je vous propose de voir comment et dans quel but, en s'appuyant sur l'exemple de composants Symfony.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://slides.com/kpn13/les-generiques-en-php)  
+~~Video~~  
+[Examples](https://github.com/kpn13/generics-php)
 
 By [Karim Pinchon](https://connect.symfony.com/profile/kpinchon)  
 ![github](icon/github.png) [@kpn13](https://github.com/kpn13)  
