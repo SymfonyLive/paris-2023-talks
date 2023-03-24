@@ -29,7 +29,7 @@ Mais nous pensons qu'il est temps de faire peau neuve, notamment pour ouvrir le 
 Préparez-vous à redécouvrir la Console !</dd>
 </dl>
 
-[Slides](https://slides.com/chalasr/reinvent-symfony-console)  
+[Slides](https://speakerdeck.com/chalasr/reinvent-symfony-console)  
 ~~Video~~
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
