@@ -104,7 +104,7 @@ By [Allison Guilhem](https://connect.symfony.com/profile/a_guilhem)
   <dd>Si vous utilisez fréquemment des SGBD tels que MySQL, PostgreSQL ou MongoDB pour stocker des informations, vous savez probablement qu'utiliser ces SGBD peut causer des soucis lorsque vous devez effectuer une mise à l'échelle ou réduire le temps de réponse de l'application. Il existe une solution open-source appelée SQLite qui est entièrement serverless, tourne en production dans des sous-marins et sur vos téléphones, et ne requiert ni Docker ni exécutable. SQLite a été conçu pour résoudre des problèmes spécifiques, mais peut également aider à résoudre des problèmes de coûts, de mise à l'échelle, de gestion de localisation, etc. Dans ce talk, nous discuterons des avantages de l'utilisation de SQLite dans nos applications pour réduire le temps de réponse, l'utilisation de ressources et améliorer l'expérience utilisateur.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/guikingone/sqlite-en-production-et-si-vous-reevaluiez-vos-options)  
 ~~Video~~
 
 By [Guillaume Loulier](https://connect.symfony.com/profile/guikingone)  
