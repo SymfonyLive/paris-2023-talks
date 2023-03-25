@@ -179,7 +179,7 @@ Concevoir une API pour le futur, c'est s'assurer de sa stabilité sur le long-te
 Discutons ensemble de ces challenges et de comment les adresser dans le cadre d'une API Symfony.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/tgalopin/concevoir-son-api-pour-le-futur)  
 ~~Video~~
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
