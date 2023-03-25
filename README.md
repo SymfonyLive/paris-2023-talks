@@ -202,7 +202,8 @@ Mais est-ce encore vraiment nécessaire ? Les navigateurs ont récemment gagné 
 </dl>
 
 ~~Slides~~  
-~~Video~~
+~~Video~~  
+[Symfony's Pull Request](https://github.com/symfony/symfony/pull/48371)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
 ![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
