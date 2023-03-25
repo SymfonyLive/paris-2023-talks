@@ -180,7 +180,8 @@ Discutons ensemble de ces challenges et de comment les adresser dans le cadre d'
 </dl>
 
 [Slides](https://speakerdeck.com/tgalopin/concevoir-son-api-pour-le-futur)  
-~~Video~~
+~~Video~~  
+[Package](https://github.com/selency/openapi)
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
 ![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
