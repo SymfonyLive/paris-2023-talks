@@ -88,7 +88,7 @@ Nous allons voir ensemble les contextes d’application auxquels l’AsyncDecora
 Alors prêt ? Traçons!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/alli83/jongler-en-asynchrone-avec-symfony-httpclient)  
 ~~Video~~  
 
 By [Allison Guilhem](https://connect.symfony.com/profile/a_guilhem)  
