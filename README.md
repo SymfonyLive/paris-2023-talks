@@ -223,7 +223,7 @@ En mettant en pratique la documentation, on se retrouve confronté à des questi
 Cette conférence est le résumé de plus de 10 ans de pratique de tests automatisés avec Symfony.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/alexandresalome/les-tests-dans-une-application-symfony)  
 ~~Video~~
 
 By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)  
