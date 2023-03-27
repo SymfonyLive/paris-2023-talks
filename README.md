@@ -257,7 +257,7 @@ By [Camille Jouan](https://connect.symfony.com/profile/ca-jou)
   <dd>Il s'est passé beaucoup de choses depuis un an ! 52 billets de blog pour vous tenir au courant de toutes les nouveautés, un tas de "pull requests", deux nouvelle versions, des fonctionnalités en pagaille... Eh bien, je suis sûr que vous avez raté quelque chose. Revenons ensemble sur ce qui s'est passé ces 12 derniers mois dans l'écosystème Symfony.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/whats-new-in-early-2023)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
