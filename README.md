@@ -7,7 +7,7 @@
 ## Keynote
 
 [Slides](https://speakerdeck.com/fabpot/s)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/807)
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
