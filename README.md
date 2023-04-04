@@ -124,7 +124,7 @@ Chez Windoo, nous utilisons le composant symfony/ux-turbo depuis début 2021 pou
 Formulaires, messagerie, modales, asynchrones... Je vous montrerai des applications très concrètes de cette bibliothèque dans vos projets !</dd>
 </dl>
 
-[Slides](https://docs.google.com/presentation/d/1QvHVl1uplsvRbb2IrlMotHOoFLDbQAeW-WBPdDEq6_k/)
+[Slides](https://docs.google.com/presentation/d/1QvHVl1uplsvRbb2IrlMotHOoFLDbQAeW-WBPdDEq6_k/)  
 [Video](https://live.symfony.com/account/replay/video/816)
 
 By [Florent Destremau](https://connect.symfony.com/profile/florentdestremau)  
@@ -158,7 +158,7 @@ By [Magali Milbergue](https://connect.symfony.com/profile/magali_milbergue)
 </dl>
 
 [Slides](https://slides.com/kpn13/les-generiques-en-php)  
-[Video](https://live.symfony.com/account/replay/video/814)
+[Video](https://live.symfony.com/account/replay/video/814)  
 [Examples](https://github.com/kpn13/generics-php)
 
 By [Karim Pinchon](https://connect.symfony.com/profile/kpinchon)  
@@ -180,7 +180,7 @@ Discutons ensemble de ces challenges et de comment les adresser dans le cadre d'
 </dl>
 
 [Slides](https://speakerdeck.com/tgalopin/concevoir-son-api-pour-le-futur)  
-[Video](https://live.symfony.com/account/replay/video/813)
+[Video](https://live.symfony.com/account/replay/video/813)  
 [Package](https://github.com/selency/openapi)
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
@@ -201,8 +201,8 @@ L'initiative Symfony UX a grandement simplifié la façon de construire la parti
 Mais est-ce encore vraiment nécessaire ? Les navigateurs ont récemment gagné des fonctionnalités permettant de se passer de la plupart d'entre elles. Voyons comment se débarrasser de cette complexité en utilisant la plateforme web !</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/dunglas/symfony-importmaps-manage-your-javascript-dependencies-without-node)
-[Video](https://live.symfony.com/account/replay/video/810)
+[Slides](https://speakerdeck.com/dunglas/symfony-importmaps-manage-your-javascript-dependencies-without-node)  
+[Video](https://live.symfony.com/account/replay/video/810)  
 [Symfony's Pull Request](https://github.com/symfony/symfony/pull/48371)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
@@ -241,7 +241,7 @@ By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)
 Nous allons parler méthodologie, outils, calendrier, ressources. Pas de recettes magiques, seulement des trucs et astuces qui m'ont aidée à trouver le chemin vers l'examen final. Et puis j'expliquerai comment tout cela peut s'appliquer à *tout* besoin d'auto-formation.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/cajou/se-preparer-a-la-certification-sf)
+[Slides](https://speakerdeck.com/cajou/se-preparer-a-la-certification-sf)  
 [Video](https://live.symfony.com/account/replay/video/819)
 
 By [Camille Jouan](https://connect.symfony.com/profile/ca-jou)  
