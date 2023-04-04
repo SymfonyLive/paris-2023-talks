@@ -30,7 +30,7 @@ Préparez-vous à redécouvrir la Console !</dd>
 </dl>
 
 [Slides](https://speakerdeck.com/chalasr/reinvent-symfony-console)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/815)
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
 ![github](icon/github.png) [@chalasr](https://github.com/chalasr)  
@@ -52,7 +52,7 @@ Bienvenue dans le monde merveilleux des systèmes distribués !</dd>
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/817)
 
 By [Pascal Martin](https://connect.symfony.com/profile/pmartin)  
 ![github](icon/github.png) [@pmartin](https://github.com/pmartin)  
@@ -68,8 +68,8 @@ By [Pascal Martin](https://connect.symfony.com/profile/pmartin)
   <dd>La conférence présentera l'utilisation du composant Workflow de Symfony sur un projet au sein de Sézane, en se basant sur des exemples concrets pour expliquer comment le composant a été mis en place et utilisé en premier lieu en mode "workflow", puis comment l'implémentation a été entièrement revue pour passer en mode "state machine" plus adapté. Le talk détaillera les étapes de la mise en place, les interrogations rencontrées, les possibilités offertes par le composant, et les ajustements effectués pour arriver à une implémentation efficace.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://speakerdeck.com/fcauchy/il-etait-une-fois-le-composant-workflow)  
+[Video](https://live.symfony.com/account/replay/video/812)
 
 By [Florence Cauchy](https://connect.symfony.com/profile/fcauchy)  
 
@@ -89,7 +89,7 @@ Alors prêt ? Traçons!</dd>
 </dl>
 
 [Slides](https://speakerdeck.com/alli83/jongler-en-asynchrone-avec-symfony-httpclient)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/809)
 
 By [Allison Guilhem](https://connect.symfony.com/profile/a_guilhem)  
 ![github](icon/github.png) [@alli83](https://github.com/alli83)  
@@ -105,7 +105,7 @@ By [Allison Guilhem](https://connect.symfony.com/profile/a_guilhem)
 </dl>
 
 [Slides](https://speakerdeck.com/guikingone/sqlite-en-production-et-si-vous-reevaluiez-vos-options)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/811)
 
 By [Guillaume Loulier](https://connect.symfony.com/profile/guikingone)  
 ![github](icon/github.png) [@Guikingone](https://github.com/Guikingone)  
@@ -124,8 +124,8 @@ Chez Windoo, nous utilisons le composant symfony/ux-turbo depuis début 2021 pou
 Formulaires, messagerie, modales, asynchrones... Je vous montrerai des applications très concrètes de cette bibliothèque dans vos projets !</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://docs.google.com/presentation/d/1QvHVl1uplsvRbb2IrlMotHOoFLDbQAeW-WBPdDEq6_k/)
+[Video](https://live.symfony.com/account/replay/video/816)
 
 By [Florent Destremau](https://connect.symfony.com/profile/florentdestremau)  
 ![github](icon/github.png) [@florentdestremau](https://github.com/florentdestremau)  
@@ -141,7 +141,7 @@ By [Florent Destremau](https://connect.symfony.com/profile/florentdestremau)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/818)
 
 By [Magali Milbergue](https://connect.symfony.com/profile/magali_milbergue)  
 ![github](icon/github.png) [@TheDaisyMoon](https://github.com/TheDaisyMoon)  
@@ -158,7 +158,7 @@ By [Magali Milbergue](https://connect.symfony.com/profile/magali_milbergue)
 </dl>
 
 [Slides](https://slides.com/kpn13/les-generiques-en-php)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/814)
 [Examples](https://github.com/kpn13/generics-php)
 
 By [Karim Pinchon](https://connect.symfony.com/profile/kpinchon)  
@@ -180,7 +180,7 @@ Discutons ensemble de ces challenges et de comment les adresser dans le cadre d'
 </dl>
 
 [Slides](https://speakerdeck.com/tgalopin/concevoir-son-api-pour-le-futur)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/813)
 [Package](https://github.com/selency/openapi)
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
@@ -201,8 +201,8 @@ L'initiative Symfony UX a grandement simplifié la façon de construire la parti
 Mais est-ce encore vraiment nécessaire ? Les navigateurs ont récemment gagné des fonctionnalités permettant de se passer de la plupart d'entre elles. Voyons comment se débarrasser de cette complexité en utilisant la plateforme web !</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+[Slides](https://speakerdeck.com/dunglas/symfony-importmaps-manage-your-javascript-dependencies-without-node)
+[Video](https://live.symfony.com/account/replay/video/810)
 [Symfony's Pull Request](https://github.com/symfony/symfony/pull/48371)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
@@ -224,7 +224,7 @@ Cette conférence est le résumé de plus de 10 ans de pratique de tests automat
 </dl>
 
 [Slides](https://speakerdeck.com/alexandresalome/les-tests-dans-une-application-symfony)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/820)
 
 By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)  
 ![github](icon/github.png) [@alexandresalome](https://github.com/alexandresalome)  
@@ -241,8 +241,8 @@ By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)
 Nous allons parler méthodologie, outils, calendrier, ressources. Pas de recettes magiques, seulement des trucs et astuces qui m'ont aidée à trouver le chemin vers l'examen final. Et puis j'expliquerai comment tout cela peut s'appliquer à *tout* besoin d'auto-formation.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://speakerdeck.com/cajou/se-preparer-a-la-certification-sf)
+[Video](https://live.symfony.com/account/replay/video/819)
 
 By [Camille Jouan](https://connect.symfony.com/profile/ca-jou)  
 ![github](icon/github.png) [@Ca-Jou](https://github.com/Ca-Jou)  
@@ -258,7 +258,7 @@ By [Camille Jouan](https://connect.symfony.com/profile/ca-jou)
 </dl>
 
 [Slides](https://speakerdeck.com/nicolasgrekas/whats-new-in-early-2023)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/808)
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
